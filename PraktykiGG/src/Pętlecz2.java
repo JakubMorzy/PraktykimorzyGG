@@ -68,7 +68,7 @@ public class Pętlecz2
         System.out.println();
     /*Zaddanie 5
     Narysuj trójkąt za pomocą 2-óch pętli.*/
-        int h  = 5;
+        int h  = 9;
 
 
         for (int i = 0; i < h; i++)
