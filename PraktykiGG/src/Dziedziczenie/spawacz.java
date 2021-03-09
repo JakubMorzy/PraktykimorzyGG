@@ -9,6 +9,6 @@ public class spawacz extends Praca
 
     public void wykonujePrace()
     {
-        System.out.println("Eustachy Kabanos z panią Anicetą Górą!");
+        System.out.println("Janek z  Kabanosem z panią Łapińską!");
     }
 }

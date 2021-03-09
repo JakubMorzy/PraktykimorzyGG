@@ -16,7 +16,7 @@ public class Pies extends Zwierze
     @Override
     public void dajGłos()
     {
-        System.out.println("HAU HAU");
+        System.out.println("Hau Hau Hau");
     }
 
     public String getSiersc()
